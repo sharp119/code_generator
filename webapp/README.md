@@ -4,7 +4,7 @@ CodeGenerator frontend built with `ReactJS`, `SCSS` and `microsoft-cognitiveserv
 
 
 
-<
+
 
 *Image showing the two main screens of the application*
 
